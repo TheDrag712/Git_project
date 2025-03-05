@@ -11,4 +11,3 @@ faire l'analysed de la BDD
 
 faire valider par le client les maquettes et le mcd
 
-Donnez les droits à Habib
