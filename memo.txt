@@ -1,0 +1,13 @@
+Memo du projet 
+
+
+!TODO
+
+Faire les maquettes
+faire l'analysed de la BDD
+
+
+!PENSE-BETE
+
+faire valider par le client les maquettes et le mcd
+
